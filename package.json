@@ -2,7 +2,7 @@
   "name": "chorus",
   "productName": "chorus",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Chorus: A completely FOSS theatre cue system",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -16,6 +16,12 @@
     "name": "Hudson Knott",
     "email": "hudson@hudsonknott.co.uk"
   },
+  "contributors": [
+    {
+      "name": "Labbie",
+      "email": "labbie@labbie.co.uk"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
